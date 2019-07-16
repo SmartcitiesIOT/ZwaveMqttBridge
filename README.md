@@ -1,6 +1,6 @@
 # ZwaveMqttBridge
 
-
+!!! NOT PART OF THE PROJECT !!!
 Rough implementation of OpenZWAVE - MQTT(mosquitto) Bridge. uses Jsoncpp and mosquitopp libraries for compilation. 
 
 for compile use:
